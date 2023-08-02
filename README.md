@@ -10,6 +10,19 @@
   - [Movie App](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/movieApp)
   - [To do list](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/to%20do%20list%20app)
 
+<h2>👨‍💻 Python Projects:</h2>
+
+  - [Weather App](https://github.com/emmanueloa503/PYTHON/tree/main/WEATHERAPP)
+
+<h2>👨‍💻 TABLEAU Projects:</h2>
+
+  - [Netflix](https://github.com/emmanueloa503/TABLEAU/tree/main/netflix)
+
+<h2>👨‍💻 Andriod Projects:</h2>
+
+  - [kotlinMinutes](https://github.com/emmanueloa503/ANDRIOD/tree/main/kotlinMinutes)
+ 
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
