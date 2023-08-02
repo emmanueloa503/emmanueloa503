@@ -34,6 +34,11 @@
   - [Prices](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP5.cpp)
   - [Stack](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.cpp)
   - [Stack.h](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.h)
+
+<h2>👨‍💻 Photography| Videography| Creative directing projects:</h2>
+
+  - [Manny Media](https://mannymedia.studio/)
+
  
 
 
