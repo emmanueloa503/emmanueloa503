@@ -21,7 +21,22 @@
 <h2>👨‍💻 Andriod Projects:</h2>
 
   - [kotlinMinutes](https://github.com/emmanueloa503/ANDRIOD/tree/main/kotlinMinutes)
+
+<h2>👨‍💻 C++ Projects:</h2>
+
+  - [Matrix](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%201.cpp)
+  - [Odd Numbers](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%202.cpp)
+  - [Number of words](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%203.cpp)
+  - [Arranges numbers in descending order](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP4.cpp)
+  - [Palindromes](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP5.cpp)
+  - [Palindromes](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP6.cpp)
+  - [Prices](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP5.cpp)
+  - [Stack](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.cpp)
+  - [Stack.h](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.h)
  
+
+
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
