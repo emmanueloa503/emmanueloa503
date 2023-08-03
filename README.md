@@ -19,10 +19,6 @@
 
   - [Netflix](https://github.com/emmanueloa503/TABLEAU/tree/main/netflix)
 
-<h2>👨‍💻 Andriod Projects:</h2>
-
-  - [kotlinMinutes](https://github.com/emmanueloa503/ANDRIOD/tree/main/kotlinMinutes)
-
 <h2>👨‍💻 C++ Projects:</h2>
 
   - [Matrix](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%201.cpp)
