@@ -15,6 +15,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
   - [Weather App](https://github.com/emmanueloa503/PYTHON/tree/main/WEATHERAPP)
+  - [Rock, Paper, Scissors Game](https://github.com/emmanueloa503/PYTHON/tree/main/rock%20paper%20scissors)
 
 <h2>👨‍💻 TABLEAU Projects:</h2>
 
