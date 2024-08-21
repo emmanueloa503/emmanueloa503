@@ -14,6 +14,7 @@
 
 <h2>👨‍💻 Embedded System:</h2>
 
+  - [Wearable Parkinsonian](https://github.com/emmanueloa503/Real-time-Embedded-System-Projects/tree/main/Wearable%20Parkinsonian%20Tremor%20Detector/rtes_challenge)
 
 <h2>👨‍💻 Python Projects:</h2>
 
