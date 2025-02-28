@@ -11,25 +11,22 @@
 <h2>🤳 Connect with Me:</h2>
 
 <a href="https://www.linkedin.com/in/emmanueloa503/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon_white.svg" 
-         alt="LinkedIn" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" style="margin-right: 10px;">
 </a>
 
 <a href="https://www.instagram.com/iammannymedia/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon_white.png" 
-         alt="Instagram" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" style="margin-right: 10px;">
 </a>
 
 <a href="https://mannymedia.studio/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_Chrome_icon_white.svg" 
-         alt="Portfolio" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio" width="30px" style="margin-right: 10px;">
 </a>
 
 <a href="https://github.com/emmanueloa503" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
-         alt="GitHub" width="30px">
-</a>
-<br/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30px">
+</a> <br/>
+
+<p> </p>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
