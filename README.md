@@ -8,23 +8,13 @@
 <p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
 <p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
 
-<h2>🤳 Connect with Me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/emmanueloa503/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" style="margin-right: 10px;">
-</a>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://www.instagram.com/iammannymedia/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" style="margin-right: 10px;">
-</a>
-
-<a href="https://mannymedia.studio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio" width="30px" style="margin-right: 10px;">
-</a>
-
-<a href="https://github.com/emmanueloa503" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30px">
-</a> <br/>
+[instagram]:https://www.instagram.com/iammannymedia/?hl=en
+[linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 
 <p> </p>
 
@@ -70,16 +60,6 @@
 
  
 
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]:https://www.instagram.com/iammannymedia/?hl=en
-[linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
