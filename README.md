@@ -61,7 +61,7 @@
 
 <br/> <h2></h2> <br/>
 <p> ### 🚀 Let's Build Something Amazing Together! </p>
-<p> 💬 Feel free to reach out via **LinkedIn** [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] </p>
+<p> 💬 Feel free to reach out via **LinkedIn**  </p> [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 
 
