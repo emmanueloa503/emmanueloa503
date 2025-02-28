@@ -1,6 +1,14 @@
-<h1>Hi, I'm Emmanuel! <br/>
+<h1># Hi, I'm Emmanuel! 👋</h1>  <br/>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h2> <br/>
+
+<p> 
+  🚀 Passionate about building innovative tech solutions, I have experience in:
+- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)  
+- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)  
+- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)  
+- 🧠 **Software Development** (Python, C++, Java)  
+</p> <br/>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
