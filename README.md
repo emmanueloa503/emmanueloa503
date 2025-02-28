@@ -2,11 +2,11 @@
 
 <h4>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h4> <br/>
 
-<p> 🚀 Passionate about building innovative tech solutions, I have experience in:  </p> <br/>
-<p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> <br/>
-<p>- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)                       </p> <br/>
-<p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p> <br/>  
-<p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
+<p> 🚀 Passionate about building innovative tech solutions, I have experience in:  </p> 
+<p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> 
+<p>- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)                       </p> 
+<p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
+<p>- 🧠 **Software Development** (Python, C++, Java)                               </p> 
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
