@@ -15,7 +15,7 @@
 
 [instagram]:https://www.instagram.com/iammannymedia/?hl=en
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
-<h2></h2><br/>
+<br/> <h2></h2> <br/>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
