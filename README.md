@@ -11,20 +11,21 @@
 <h2>🤳 Connect with Me:</h2>
 
 <a href="https://www.linkedin.com/in/emmanueloa503/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" style="filter: invert(100%); margin-right: 10px;">
 </a>
 
 <a href="https://www.instagram.com/iammannymedia/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" style="filter: invert(100%); margin-right: 10px;">
 </a>
 
 <a href="https://mannymedia.studio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio" width="30px" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio" width="30px" style="filter: invert(100%); margin-right: 10px;">
 </a>
 
 <a href="https://github.com/emmanueloa503" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30px" style="filter: invert(100%);">
 </a>
+</br>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
