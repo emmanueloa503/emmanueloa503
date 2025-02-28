@@ -6,7 +6,7 @@
 <p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> 
 <p>- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)                       </p> 
 <p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
-<p>- 🧠 **Software Development** (Python, C++, Java)                               </p> 
+<p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
