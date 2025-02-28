@@ -17,7 +17,7 @@
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 <br/> <h2></h2> <br/>
 
-<h2> ### 🌐 **Web Development Projects** </h2>
+<br/><h2> ### 🌐 **Web Development Projects** </h2>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
@@ -29,21 +29,21 @@
   - [Sky racers](https://github.com/emmanueloa503/SOFTWARE-ENGINEERING/tree/main/sky_racers%20(software%20engineering%20project))
   - [Youtube Clone](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/Youtube%20Clone)
 
-<h2>### 🔌 **Embedded Systems Projects** </h2>
+<br/><h2>### 🔌 **Embedded Systems Projects** </h2>
 
   - [Wearable Parkinsonian](https://github.com/emmanueloa503/Real-time-Embedded-System-Projects/tree/main/Wearable%20Parkinsonian%20Tremor%20Detector/rtes_challenge)
 
-<h2>### 🐍 **Python Projects** </h2>
+<br/><h2>### 🐍 **Python Projects** </h2>
 
   - [Weather App](https://github.com/emmanueloa503/PYTHON/tree/main/WEATHERAPP)
   - [Rock, Paper, Scissors Game](https://github.com/emmanueloa503/PYTHON/tree/main/rock%20paper%20scissors)
   - [Hangman](https://github.com/emmanueloa503/PYTHON/tree/main/Hangman)
 
-<h2> ### 👨‍💻 **TABLEAU Projects** </h2>
+<br/><h2> ### 👨‍💻 **TABLEAU Projects** </h2>
 
   - [Netflix](https://github.com/emmanueloa503/TABLEAU/tree/main/netflix)
 
-<h2> ### 🔢 **C++ Projects** </h2>
+<br/><h2> ### 🔢 **C++ Projects** </h2>
 
   - [Matrix](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%201.cpp)
   - [Odd Numbers](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%202.cpp)
@@ -55,7 +55,7 @@
   - [Stack](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.cpp)
   - [Stack.h](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.h)
 
-<h2> ###👨‍💻 **Photography| Videography| Creative directing projects** </h2>
+<br/><h2> ###👨‍💻 **Photography| Videography| Creative directing projects** </h2>
 
   - [Manny Media](https://mannymedia.studio/)
 
