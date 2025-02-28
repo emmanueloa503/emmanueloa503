@@ -1,6 +1,6 @@
 <h1># Hi, I'm Emmanuel! 👋</h1>  <br/>
 
-<h3>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h3> <br/>
+<h2>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h2> <br/>
 
 <p> 🚀 Passionate about building innovative tech solutions, I have experience in:  </p> 
 <p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> 
@@ -15,8 +15,7 @@
 
 [instagram]:https://www.instagram.com/iammannymedia/?hl=en
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
-<br/>
-<p> </p>
+<h2></h2><br/>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
