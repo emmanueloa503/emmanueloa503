@@ -8,11 +8,23 @@
 <p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
 <p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
 
-<h3> ## 🤳 Connect with Me: </h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanueloa503/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/iammannymedia/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome)](https://mannymedia.studio/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/emmanueloa503)  
+<h2>🤳 Connect with Me:</h2>
+
+<a href="https://www.linkedin.com/in/emmanueloa503/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" style="margin-right: 10px;">
+</a>
+
+<a href="https://www.instagram.com/iammannymedia/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" style="margin-right: 10px;">
+</a>
+
+<a href="https://mannymedia.studio/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" alt="Portfolio" width="30px" style="margin-right: 10px;">
+</a>
+
+<a href="https://github.com/emmanueloa503" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30px">
+</a>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
