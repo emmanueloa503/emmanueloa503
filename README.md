@@ -1,12 +1,18 @@
 <h1># Hi, I'm Emmanuel! 👋</h1>  <br/>
 
-<h4>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h4> <br/>
+<h3>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h3> <br/>
 
 <p> 🚀 Passionate about building innovative tech solutions, I have experience in:  </p> 
 <p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> 
 <p>- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)                       </p> 
 <p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
 <p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
+
+<h3> ## 🤳 Connect with Me: </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emmanueloa503/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://www.instagram.com/iammannymedia/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat&logo=google-chrome)](https://mannymedia.studio/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/emmanueloa503)  
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
