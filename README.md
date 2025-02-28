@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
          alt="GitHub" width="30px">
 </a>
-</br>
+<br/>
 
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
