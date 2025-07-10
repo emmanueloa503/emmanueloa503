@@ -17,8 +17,11 @@
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 <br/> <h2></h2> <br/>
 
-<br/><h2> ### 🌐 **Software and Web Development Projects** </h2>
+<br/><h2> ### 🌐 **Software and Web Application Projects** </h2>
 
+
+  - [CAPSTONE(Dynamic website)](https://github.com/DailyCommuter/DailyCommuter)
+  - [ai-fashion-matcher(API web application)](https://github.com/emmanueloa503/ai-fashion-matcher)
   - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
   - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
   - [Shopping website](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/SHOP)
