@@ -36,8 +36,8 @@
 
   - [Wearable Parkinsonian](https://github.com/emmanueloa503/Real-time-Embedded-System-Projects/tree/main/Wearable%20Parkinsonian%20Tremor%20Detector/rtes_challenge)
 
-<br/><h2>### 🌐 Internet-Architecture-and-Protocols ** </h2>
-  - [Wearable Parkinsonian](https://github.com/emmanueloa503/Internet-Architecture-and-Protocols-)
+<br/><h2>### 🌐 **Internet-Architecture-and-Protocols** </h2>
+  - [IAP](https://github.com/emmanueloa503/Internet-Architecture-and-Protocols-)
 
 <br/><h2>### 🐍 **Python Projects** </h2>
 
