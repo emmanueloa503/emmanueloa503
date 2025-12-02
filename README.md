@@ -1,12 +1,8 @@
 <h1># Hi, I'm Emmanuel! 👋</h1>  <br/>
 
-<h2>💻 Computer Engineering Student | Software & Web Developer | Embedded Systems | Networking & Security  </h2> <br/>
+<h2>💻 Computer Engineering @ NYU | Software • Data • Systems Engineer  </h2> <br/>
 
-<p> 🚀 Passionate about building innovative tech solutions, I have experience in:  </p> 
-<p>- 🖥️ **Full-Stack Web Development** (React, Node.js, JavaScript, REST APIs)     </p> 
-<p>- 🔌 **Embedded Systems** (STM32, ARM Assembly, FreeRTOS)                       </p> 
-<p>- 📡 **Networking & Security** (TCP/IP, Routing, Firewalls)                     </p>   
-<p>- 🧠 **Software Development** (Python, C++, Java)                               </p> <br/>
+<p> Engineer skilled in developing full-stack applications, managing data systems, and supporting technical infrastructure across diverse environments. Experienced in Python, JavaScript (React, Node.js), SQL, and C++, with hands-on application of data analysis, API integration, and machine learning workflows. Builds scalable, user-centered solutions that combine clean design, automation, and system efficiency. Strong technical foundation in both software development and IT operations, with a track record of improving performance, accuracy, and user experience through data-driven engineering. </p> <br/>
 
 <h2> 🤳 Connect with me:</h2>
 
