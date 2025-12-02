@@ -17,6 +17,12 @@
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 <br/> <h2></h2> <br/>
 
+<br/><h2>### 📈💰📊 **Data Science** </h2>
+
+  - [Movie Recommendation System](https://github.com/emmanueloa503/Movie-Recommendation-System)
+
+    
+
 <br/><h2> ### 🌐 **Software and Web Application Projects** </h2>
 
 
