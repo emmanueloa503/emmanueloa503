@@ -15,7 +15,7 @@
 
 <br/><h2>### 🔊🔉🔈🔇  **Digital Signal Processing** </h2>
 
-  - [Real-time Voice Mimicker](https://github.com/emmanueloa503/Digital-Signal-Processing/tree/main)
+  - [Real-Time Voice Mimicker and Text-to-Speech Synthesizer](https://github.com/emmanueloa503/Digital-Signal-Processing/tree/main)
 
 
 <br/><h2>### 📈💰📊 **Data Science** </h2>
