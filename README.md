@@ -13,6 +13,11 @@
 [linkedin]: https://www.linkedin.com/in/emmanuel-o-5b5560138/
 <br/> <h2></h2> <br/>
 
+<br/><h2>### 📜  ** Certifications ** </h2>
+
+  - [Certifications](https://github.com/emmanueloa503/Certifications)
+
+
 <br/><h2>### 🔊🔉🔈🔇  **Digital Signal Processing** </h2>
 
   - [Real-Time Voice Mimicker and Text-to-Speech Synthesizer](https://github.com/emmanueloa503/Digital-Signal-Processing/tree/main)
