@@ -7,11 +7,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/emmanuel-o-5b5560138/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(17%) sepia(99%) saturate(7481%) hue-rotate(358deg) brightness(95%) contrast(119%);" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" />
 </a>
 
 <a href="https://www.instagram.com/iammannymedia/?hl=en">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(17%) sepia(99%) saturate(7481%) hue-rotate(358deg) brightness(95%) contrast(119%);" />
+  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />
 </a>
 
 <br/><br/>
