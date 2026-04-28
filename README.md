@@ -2,7 +2,11 @@
 
 <h2>💻 Computer Engineering @ NYU | Software • Data • Systems Engineer  </h2> <br/>
 
-<p> Engineer skilled in developing full-stack applications, managing data systems, and supporting technical infrastructure across diverse environments. Experienced in Python, JavaScript (React, Node.js), SQL, and C++, with hands-on application of data analysis, API integration, and machine learning workflows. Builds scalable, user-centered solutions that combine clean design, automation, and system efficiency. Strong technical foundation in both software development and IT operations, with a track record of improving performance, accuracy, and user experience through data-driven engineering. </p> <br/>
+<p> Engineer with a Master’s in Computer Engineering from NYU, experienced in building full-stack applications, data-driven systems, and automation workflows. Skilled in Python, JavaScript (React, Node.js), SQL, and API integration, with hands-on experience applying machine learning and data processing techniques to real-world problems.
+
+Built scalable applications and AI-powered systems that improve efficiency, accuracy, and user experience. Strong foundation across software development, data systems, and IT infrastructure, with a focus on clean design, automation, and system performance.
+
+Currently seeking entry-level roles in software engineering, data, or IT/systems where I can contribute to building reliable and scalable solutions. </p> <br/>
 
 <h2 align="center"> 🤳 Connect with me:</h2>
 
