@@ -4,17 +4,16 @@
 
 <p> Engineer skilled in developing full-stack applications, managing data systems, and supporting technical infrastructure across diverse environments. Experienced in Python, JavaScript (React, Node.js), SQL, and C++, with hands-on application of data analysis, API integration, and machine learning workflows. Builds scalable, user-centered solutions that combine clean design, automation, and system efficiency. Strong technical foundation in both software development and IT operations, with a track record of improving performance, accuracy, and user experience through data-driven engineering. </p> <br/>
 
-<h2> 🤳 Connect with me:</h2>
+<h2 align="center"> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/emmanuel-o-5b5560138/">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="filter: invert(1);" />
-</a>
-
-<a href="https://www.instagram.com/iammannymedia/?hl=en">
-  <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" style="filter: invert(1);" />
-</a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-o-5b5560138/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/iammannymedia/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <br/><h2>### 📜  ** Certifications ** </h2>
 
