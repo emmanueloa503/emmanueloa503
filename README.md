@@ -1,105 +1,136 @@
-<h1># Hi, I'm Emmanuel! 👋</h1>  <br/>
+<h1 align="center">Hi, I'm Emmanuel Owusu-Ampaw 👋</h1>
 
-<h2>💻 Computer Engineering @ NYU | Software • Data • Systems Engineer  </h2> <br/>
-
-<p> Engineer with a Master’s in Computer Engineering from NYU, experienced in building full-stack applications, data-driven systems, and automation workflows. Skilled in Python, JavaScript (React, Node.js), SQL, and API integration, with hands-on experience applying machine learning and data processing techniques to real-world problems.
-
-Built scalable applications and AI-powered systems that improve efficiency, accuracy, and user experience. Strong foundation across software development, data systems, and IT infrastructure, with a focus on clean design, automation, and system performance.
-
-Currently seeking entry-level roles in software engineering, data, or IT/systems where I can contribute to building reliable and scalable solutions. </p> <br/>
-
-<h2 align="center"> 🤳 Connect with me:</h2>
+<h3 align="center">
+Software • AI • Full-Stack Engineer
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-o-5b5560138/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/iammannymedia/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+M.S. Computer Engineering @ NYU
 </p>
 
-<br/><h2>### 📜  ** Certifications ** </h2>
+---
 
-  - [Certifications](https://github.com/emmanueloa503/Certifications)
+## 👨🏾‍💻 About Me
 
+I'm a computer engineer and builder with an M.S. in Computer Engineering from
+New York University.
 
-<br/><h2>### 🔊🔉🔈🔇  **Digital Signal Processing** </h2>
+I enjoy identifying real problems and building software to solve them. My work
+spans full-stack development, AI/LLMs, data systems, automation, frontend
+platforms, and embedded systems.
 
-  - [Real-Time Voice Mimicker and Text-to-Speech Synthesizer](https://github.com/emmanueloa503/Digital-Signal-Processing/tree/main)
+Recently, I've built RAG-based document intelligence workflows, developed
+user-facing platform improvements, automated repetitive business processes,
+and built full-stack applications using Python, JavaScript, React, Flask,
+Node.js, SQL, Firebase, and REST APIs.
 
+🌐 **Portfolio:** [emmanueloa503.github.io](https://emmanueloa503.github.io/)
 
-<br/><h2>### 📈💰📊 **Data Science** </h2>
+---
 
-  - [Movie Recommendation System](https://github.com/emmanueloa503/Movie-Recommendation-System)
+## 🚀 Featured Projects
 
-    
+### 👕 AI Fashion Matcher
 
-<br/><h2> ### 🌐 **Software and Web Application Projects** </h2>
+**React.js • Node.js • Clarifai API • REST APIs**
 
+I wanted to make it easier for users to find clothing they see in an image
+without knowing the exact product name.
 
-  - [DailyCommuter](https://github.com/DailyCommuter/DailyCommuter)
-  - [ai-fashion-matcher(API web application)](https://github.com/emmanueloa503/ai-fashion-matcher)
-  - [CAPSTONE(Dynamic website)](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/CAPSTONE)
-  - [Login page](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/LOGIN)
-  - [Shopping website](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/SHOP)
-  - [Clock](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/clock)
-  - [Contact Form](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/contact)
-  - [Movie App](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/movieApp)
-  - [To do list](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/to%20do%20list%20app)
-  - [Sky racers](https://github.com/emmanueloa503/SOFTWARE-ENGINEERING/tree/main/sky_racers%20(software%20engineering%20project))
-  - [Youtube Clone](https://github.com/emmanueloa503/SOFTWARE-DEVELOPMENT/tree/main/Youtube%20Clone)
+- Built a full-stack AI application that analyzes uploaded fashion images and
+  helps users identify exact or visually similar products.
+- Integrated the Clarifai computer vision API through REST APIs to classify and
+  process uploaded images.
 
-<br/><h2>### 🔌 **Embedded Systems Projects** </h2>
+[View Code →](https://github.com/emmanueloa503/ai-fashion-matcher)
 
-  - [Wearable Parkinsonian](https://github.com/emmanueloa503/Real-time-Embedded-System-Projects/tree/main/Wearable%20Parkinsonian%20Tremor%20Detector/rtes_challenge)
+---
 
-<br/><h2>### 🌐 **Internet-Architecture-and-Protocols** </h2>
-  - [IAP](https://github.com/emmanueloa503/Internet-Architecture-and-Protocols-)
+### 🎬 Movie Recommendation System
 
-<br/><h2>### 🐍 **Python Projects** </h2>
+**Python • Pandas • NumPy • Scikit-Learn • Streamlit**
 
-  - [Weather App](https://github.com/emmanueloa503/PYTHON/tree/main/WEATHERAPP)
-  - [Rock, Paper, Scissors Game](https://github.com/emmanueloa503/PYTHON/tree/main/rock%20paper%20scissors)
-  - [Hangman](https://github.com/emmanueloa503/PYTHON/tree/main/Hangman)
+I explored how recommendation systems can turn large collections of movie data
+into more useful discovery experiences.
 
-<br/><h2> ### 👨‍💻 **TABLEAU Projects** </h2>
+- Built a recommendation system using the TMDB dataset.
+- Implemented content-based filtering, TF-IDF, and cosine similarity.
+- Evaluated recommendation quality using Precision@K, MAP, and NDCG instead of
+  stopping once the model produced recommendations.
+- Built an interactive Streamlit interface for exploring results.
 
-  - [Netflix](https://github.com/emmanueloa503/TABLEAU/tree/main/netflix)
+[View Code →](https://github.com/emmanueloa503/Movie-Recommendation-System)
 
-<br/><h2> ### 🔢 **C++ Projects** </h2>
+---
 
-  - [Matrix](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%201.cpp)
-  - [Odd Numbers](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%202.cpp)
-  - [Number of words](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP%203.cpp)
-  - [Arranges numbers in descending order](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP4.cpp)
-  - [Palindromes](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP5.cpp)
-  - [Palindromes](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP6.cpp)
-  - [Prices](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/GHP5.cpp)
-  - [Stack](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.cpp)
-  - [Stack.h](https://github.com/emmanueloa503/CPP/blob/main/C%2B%2B/stack.h)
+### 🚇 Daily Commuter
 
-<br/><h2> ###👨‍💻 **Photography| Videography| Creative directing projects** </h2>
+**React • Flask • Firebase • REST APIs • Figma**
 
-  - [Manny Media](https://mannymedia.studio/)
+I worked on a centralized transit experience designed to make it easier for NYC
+commuters to access transit information, service updates, and route options.
 
-<br/> <h2></h2> <br/>
-<p> ### 🚀 Let's Build Something Amazing Together! </p>
-<p> 💬 Feel free to reach out via <a href="https://www.linkedin.com/in/emmanueloa/" target="_blank"><strong>LinkedIn</strong></a> </p>
- 
+- Built a full-stack application using React with a Python/Flask backend.
+- Integrated REST APIs and Firebase for transit-data workflows and user
+  authentication.
+- Designed responsive mobile and desktop experiences including route search,
+  map-based transit views, authentication, and recurring-route workflows.
 
+[View Code →](https://github.com/DailyCommuter/DailyCommuter)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚙️ Wearable Parkinsonian Tremor Detector
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Embedded Systems • C/C++ • STM32**
+
+I worked on a wearable embedded system designed to detect and analyze
+tremor-related motion using real-time sensor data.
+
+- Developed embedded firmware for an STM32-based wearable system.
+- Worked with real-time sensor data acquisition and processing.
+- Applied embedded-systems concepts to a health-focused engineering problem.
+
+[View Code →](https://github.com/emmanueloa503/Real-time-Embedded-System-Projects/tree/main/Wearable%20Parkinsonian%20Tremor%20Detector/rtes_challenge)
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages:** Python • JavaScript • Java • SQL • C • C++
+
+**Web:** React • Node.js • Flask • Firebase • REST APIs • HTML • CSS
+
+**AI & Data:** RAG • LLMs • OCR • FAISS • Sentence Transformers • Pandas •
+NumPy • Scikit-Learn
+
+**Systems:** Linux • Windows • macOS • TCP/IP • DNS
+
+**Tools:** Git • GitHub • Figma • Jupyter Notebook • Google Colab • Tableau
+
+---
+
+## 🧭 What I'm Building Toward
+
+I'm especially interested in engineering problems where software, AI, data,
+and user needs intersect.
+
+I like environments where engineers can identify problems, take ownership,
+experiment, and ship solutions rather than waiting for every step to be
+defined.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/emmanueloa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://emmanueloa503.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge" />
+</a>
+
+</p>
