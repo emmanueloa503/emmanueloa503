@@ -12,11 +12,9 @@ M.S. Computer Engineering @ NYU
 
 ## 👨🏾‍💻 About Me
 
-I'm a computer engineer and builder with an M.S. in Computer Engineering from
-New York University.
+I'm a computer engineer and builder with an M.S. in Computer Engineering from New York University. I enjoy identifying real problems, understanding what is causing them, and building software to solve them.
 
-I enjoy identifying real problems and building software to solve them. My work
-spans full-stack development, AI/LLMs, data systems, automation, frontend
+My work spans full-stack development, AI/LLMs, data systems, automation, frontend
 platforms, and embedded systems.
 
 Recently, I've built RAG-based document intelligence workflows, developed
@@ -115,9 +113,7 @@ NumPy • Scikit-Learn
 I'm especially interested in engineering problems where software, AI, data,
 and user needs intersect.
 
-I like environments where engineers can identify problems, take ownership,
-experiment, and ship solutions rather than waiting for every step to be
-defined.
+I’m drawn to problems where I can take ownership from identifying the need through experimenting, building, and shipping a working solution.
 
 ---
 
